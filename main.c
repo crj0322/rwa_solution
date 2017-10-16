@@ -1,7 +1,10 @@
-#include "dynamic_rwa.h"
+/******************************************************************************************/
+/*  main.c v_1.0 (MIS_based rwa solution) - Seyed Jafar Mosavian, Ruijia 9/11/2017        */
+/******************************************************************************************/
+#include "rwa.h"
 
 int main()
 {
-    test_dynamic_instance1();
+    test_instance_3();
     system("pause");
 }

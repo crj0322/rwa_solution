@@ -1,3 +1,6 @@
+/******************************************************************************************/
+/*  rwa_struct.h v_1.0 (MIS_based rwa solution) - Seyed Jafar Mosavian, Ruijia 9/11/2017  */
+/******************************************************************************************/
 typedef struct wave_config {
     double z_c;//chosen number of each configuration;
     int is_binary;//1- z_c could only be 1/0; 0- z_c could be integer.
